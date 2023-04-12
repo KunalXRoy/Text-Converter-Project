@@ -25,7 +25,7 @@ export default function About() {
         backgroundColor: "black",
         border: "1px dotted green",
       });
-      setMessage("Disable Dark Mode");
+      setMessage("On/Off Dark Mode");
     }else{
       setMyStyle({
         color: "black",
